@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 oto nasza hisotira tu tego oguem
 joor wyszedl do lasu wonchac znowu nitro a kśkowi było smutno oguem
 =======
@@ -11,3 +12,8 @@ Oto nasza historia oguem całe te
 
 Liga legend to cudowna gra i czołowa rozgrywka esportowa 
 >>>>>>> origin/konon
+=======
+Oto nasza historia oguem całe te
+
+masz wiadomosc
+>>>>>>> poczta/polska/jest/fajna
