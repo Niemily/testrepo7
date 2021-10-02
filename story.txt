@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 oto nasza hisotira tu tego oguem
 joor wyszedl do lasu wonchac znowu nitro a kśkowi było smutno oguem
+=======
+Oto nasza historia oguem całe te 
+>>>>>>> 6e287d866a3a6b67172717d99fa4fd6b54500c42
